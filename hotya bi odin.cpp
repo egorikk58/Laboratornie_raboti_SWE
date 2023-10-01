@@ -1,4 +1,4 @@
-//Хотя бы один 
+//Хотя бы один.
 
 #include <iostream>
 using namespace std;
