@@ -1,4 +1,4 @@
-//максимальный элемент и сумма
+//максимальный элемент и сумма.
 
 #include <iostream>
 using namespace std;
