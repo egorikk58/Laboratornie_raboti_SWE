@@ -1,4 +1,4 @@
-//мин и произедение 
+//мин и произедение.
 
 #include <iostream>
 using namespace std;
