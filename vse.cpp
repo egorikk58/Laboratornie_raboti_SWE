@@ -1,4 +1,4 @@
-//Все элементы
+//Все элементы.
 #include <iostream>
 using namespace std;
 
